@@ -1,4 +1,4 @@
-# 🎧 Roonscord
+# 🎧 Roonscord.app
 
 **Roon + Discord Rich Presence. Live music, album art, and playback status in real time.**
 
