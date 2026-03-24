@@ -18,7 +18,7 @@ Early builds are being tested locally while core features and stability are bein
 * 🎵 Live "Now Playing" from Roon
 * 🖼 Album artwork in Discord Rich Presence
 * ⏱ Real-time playback progress
-* 🔊 Zone + audio format display
+* 🔊 Zone display
 * 🧠 Smart refresh & low update overhead
 * 🖥 Native macOS menu bar app
 * 🌐 Local web helper for control & status
